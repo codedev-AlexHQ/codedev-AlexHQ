@@ -32,9 +32,8 @@
 
 ## 🌐 Connect With Me
 - 📝 [Portfolio](#) *(Coming soon!)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 📧 Reach me at **alex@example.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-huancahuari/)
+- 📧 [Correo](andresalexanderhq@gmail.com)
 
 ---
 
