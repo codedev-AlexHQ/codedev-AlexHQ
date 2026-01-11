@@ -33,7 +33,7 @@
 ## 🌐 Connect With Me
 - 📝 [Portfolio](#) *(Coming soon!)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/andres-huancahuari/)
-- 📧 [andresalexanderhq@gmail.com]
+- 📧 andresalexanderhq@gmail.com
 
 ---
 
