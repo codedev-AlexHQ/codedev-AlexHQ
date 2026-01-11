@@ -1,18 +1,18 @@
-# Hi there, I'm Alex! 👋
+# ¡Hola! Soy Alex 👋
 
-🎉 Welcome to my GitHub profile! I'm **Alex**, a passionate software developer, open-source enthusiast, and problem solver. I love creating elegant solutions and sharing knowledge with the developer community.
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on: Exploring new technologies, contributing to open source, and building impactful projects.
-- 🌱 Learning: Advanced AI/ML concepts, DevOps best practices, and blockchain development.
-- 💬 Ask me about: Full-stack development, open-source contributions, and system design.
-- ⚡ Fun fact: I believe every bug has a story to tell—if you listen carefully, you'll find the solution!
+👋 Bienvenido a mi perfil de GitHub.  Soy **Alex**, desarrollador de software egresado de TECSUP.  Me apasiona crear soluciones tecnológicas y seguir aprendiendo constantemente en este mundo del desarrollo.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Sobre mí
+- 🔭 Actualmente:  Explorando nuevas tecnologías y trabajando en proyectos personales para seguir mejorando mis habilidades.
+- 🌱 Aprendiendo:  Profundizando en backend moderno, arquitecturas de software y mejores prácticas de desarrollo. 
+- 💬 Pregúntame sobre: Desarrollo web (frontend y backend), Laravel, Node.js, y bases de datos relacionales.
+- ⚡ Dato curioso: Creo que cada bug es una oportunidad para aprender algo nuevo y mejorar como desarrollador.
+
+---
+
+## 🛠️ Lenguajes y Herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -24,18 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedev-AlexHQ&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codedev-AlexHQ&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-- 📝 [Portfolio](#) *(Coming soon!)*
+## 🌐 Conecta conmigo
+- 📝 [Portafolio](#) *(¡Próximamente!)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/andres-huancahuari/)
-- 📧 andresalexanderhq@gmail.com
-
----
-
-⭐️ **"Code is like humor. When you have to explain it, it’s bad."** – Cory House  
-If you like what you see, feel free to ⭐️ my repositories or reach out for collaboration! 🚀
+- 📧 andresalexanderhq@gmail. com
